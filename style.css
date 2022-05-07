@@ -9,10 +9,19 @@ body {
 }
 
 .header {
-  background-color: grey;
+  background-color: rgb(191, 201, 150);
+  background-image: url(/pexels-pixabay-106152.jpg);
   text-align: center;
   padding: 50px 0;
   font: size 40px;
+}
+
+.naming-header {
+  color: rgb(191, 201, 150);
+  background-color: rgb(94, 94, 69);
+  width: 30%;
+  border-radius: 20px 30px 20px 30px;
+  margin-left: 40px;
 }
 
 .container {
@@ -25,8 +34,18 @@ body {
   padding: 30px;
 }
 
+.container .navbar ul li {
+  list-style: none;
+}
+
 .content {
   width: 70%;
   background: #d8d8d8;
   padding: 30px;
+}
+
+.footer {
+  background-color: grey;
+  text-align: center;
+  padding: 20px 0;
 }
