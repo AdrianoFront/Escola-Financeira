@@ -23,6 +23,7 @@ body {
 .naming-header {
   color: rgb(191, 201, 150);
   background-color: rgb(94, 94, 69);
+  text-shadow: 8px 8px 15px black;
   width: 30%;
   border-radius: 20px 30px 20px 30px;
   margin-left: 40px;
